@@ -6,34 +6,34 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Gurpreet Singh Saini
+title: Solution Analyst / Informatica Developer / Programmer
+email: sainisaab202@gmail.com
+#website: www.github.com/sainisaab202/resume-theme
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: never
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+# twitter_username: facespics
+github_username:  sainisaab202
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+instagram_username: gurpsaini_
+linkedin_username: sainisaab202
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+# additional_links:
+# - title: itsgoingto.be
+#   icon: fas fa-globe
+#   url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -48,72 +48,163 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Gurpreet and I'm graduated from College LaSalle with a DEC in Programming. I have contributed to a couple of <b>Data Governance</b> implementation projects, enhancing expertise in Informatica IDMC tools and related technologies. 
+  I enjoy working in <b>Mobile App</b> development for iOS as well as <b>Web Development</b>. 
+  Moreover, interested in data analysis and projects related to Data migration. 
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Always looking for opportunities to learn and grow. Currently, I am spending my free time in learning <mark>React</mark>.
+
+  I am most skilled in: <mark>Informatica CDGC</mark>, <mark>PHP</mark>, <mark>JavaScript</mark>, <mark>PostgreSQL</mark>, <mark>Power Query</mark>, <mark>Power Automate</mark>, and <mark>Pizza</mark>.
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+  # - title: Projects # Title for the section
+  #   layout: list # Type of content section (list/text)
+  #   content:
+  #     - layout: top-middle
+  #       title: Super awesome project
+  #       link: github.com/sproogen
+  #       # link_text: Project Website
+  #       additional_links:
+  #         - title:  sproogen/modern-resume-theme
+  #           icon: fab fa-github
+  #           url: github.com/sproogen/modern-resume-theme
+  #         # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+  #         #   icon: fab fa-github
+  #         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+  #       quote: >
+  #         This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  #       description: | # this will include new lines to allow paragraphs
+  #         I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: Deloitte
+        link: deloitte.com
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        sub_title: Solution Analyst
+        caption: Aug 2022 - Present
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          I have involved in various type of projects from planning to implementation, requirement gathering to providing solution
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+          **DG Consultant** | Internal Deloitte  
+          * Main goal is to Catalog data of various domains using <mark>Informatica</mark> IDMC
+          * Providing KT session of each step performed in Data Cataloging journey
+          * Prepare custom Roles and Access Policies required for governance process
+          * Configuring Workflows and custom attribute settings
+          * Configuring Single Sign On (SSO) using Azure AD
+          * Working on MCC and <mark>CDGC</mark> to create assets, scanning metadata, etc
+
+          **Data Analyst** | Public Sector
+          * Collaboration on creating new Data Model with colleagues
+          * Combine data from multiple sources provided by client
+          * Data cleansing: remove or correct inaccurate, incomplete, or irrelevant data
+          * Data Transformation using <mark>Power Query</mark> to standardize data for analysis
+
+          __Web Developer__ | Internal Deloitte
+          * Website developed from scratch using <mark>Node.js</mark> back-end in <mark>Docker</mark> container
+          * Main goal was to develop a UI to interact with user uploaded CSV file
+          * Have a web page to upload CSV file and display the data in table format
+          * Another page to show a map location from data and edit fields to modify data
+
+          __PHP Developer__ | Snow Removal company
+          * Bug fixes for web app and implement success/failed paths for various actions
+          * Improving <mark>JavaScript</mark> logics, refactoring <mark>HTML</mark> code, and <mark>CSS</mark> chages
+          * Improve web app. accessibility for screen reader user as per WCAG2
+          * Resolving issues with <mark>PostgreSQL</mark> triggers and stored procedures
+
+          __Developer__ | Internal Deloitte
+          * Develop/support <mark>Power Query</mark> solution in Excel that ingest data from other files
+          * Supporting internal team to get employees on the project related to their area of interest
+          * Created <mark>Microsoft Forms</mark> to insert data inside Excel in proper format
+          * Automate the processing of uploaded files and sending auto-reply Emails using <mark>Power Automate</mark>
+          * Created survey on <mark>Qualtrics</mark> for gathering data from employees related to their interest 
+
+          **DG Consultant** | Retail company
+          * Setup <mark>Data Governance</mark> & migration of DQ from on-premises to cloud
+          * Re-created mappings in Cloud Data Integration (<mark>CDI</mark>) from IDQ on-premises
+          * Custom catalog model based on client’s requirement
+          * On-board various kind of assets in Cloud Data Governance Catalog
+
+          __Android App Dev.__ | Greenhouse Deloitte
+          * Main goal is to create a Chat-Bot App. for Pepper Robot
+          * <mark>Dialogflow CX</mark> as backend for the response with OpenAI & CohereAI
+          * Based on Voice input sent to Dialogflow the Robot response back
+
+          __Power Query Developer__ | Internal Deloitte
+          * Identify the steps that can be automated with in the processes
+          * Documenting the set of requirements, validation, cleansing and transformation rules for the source data
+          * Implementing the final solution in <mark>Power Query</mark> to automate the manual steps of transformation
+          
+          ---
+
+      - layout: left
+        title: ISO - GRUPPE
+        link: iso-gruppe.com
+        # link_text: boringcompany.com
+        sub_title: Junior Devloper - Intern
+        caption: April - June 2022
+        quote: >
+          This was my first IT internship, which I completed as part of my studies at College LaSalle
+        description: | # this will include new lines to allow paragraphs
+          * Writing Test Cases for API in <mark>SoapUI</mark> in order to generate Bulk Data
+          * Use of <mark>Groovy</mark> Scripting Language to perform required tasks
+          * Automation of tests and saving results back to the Excel sheet
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: College LaSalle
+        caption: 2019 - 2022
+        sub_title: DEC Computer Science Technology - Programming
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          Founded in 1959 in Montréal, LaSalle College is a private and subsidized post-secondary education institution. It offers collegial and pre-university programs, available both on campus and online.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          During my time at LaSalle I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time at college and learned a lot about a healthy work life balance.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          I have learned following technology at LaSalle:
+          - Programming: PHP, Java, C# (*dot net*), Python, Swift, GoLang
+          - Web Tools: HTML, CSS, JavaScript, WordPress, Bootstrap
+          - Database: Firebase, MySQL
+          - Mobile Tools: XCode, Android Studio
+          - C# //*dot net*
 
-  - title: A Little More About Me
+          ---
+
+      - layout: right
+        title: SD Bihani College
+        caption: 2015 - 2018
+        sub_title: Bachelor of Computer Applications
+        quote: >
+          Founded in 1951 as a higher secondary school, and finally attained the status of a postgraduate college in July 1966. The college has maintained a tradition of achieving commendable results in various university examinations.
+        description: | # this will include new lines to allow paragraphs
+          During my time at SD College, I took following courses:
+          - HTML, CSS, JS
+          - C, C++
+          - DBMS
+          - Java
+          - Computer Architecture
+          - Data Structure
+          - Network Security & Data Communication
+
+  - title: Certifications
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      - **Google** Cloud: Associate Cloud Engineer, Professional Data Engineer
+      - **Azure**: Azure Fundamentals (<mark>AZ-900</mark>),  AI Fundamentals (<mark>AI-900</mark>)
+      - Azure: Data Fundamentals (<mark>DP-900</mark>), Data Engineer Associate (<mark>DP-203</mark>), Enterprise Data Analyst Associate (<mark>DP-500</mark>)
+      - **Microsoft**: Power Platform Fundamentals (<mark>PL-900</mark>), Power BI Data Analyst (<mark>PL-300</mark>), Power Platform Developer Associate (<mark>PL-400</mark>)
+      - **AWS**: Certified Developer Associate
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      *I have gained hands on-experience while working toward above mentioned certifications on following tech:*
+
+      <mark>ADF</mark>    <mark>Power BI</mark>   <mark>Microsoft Forms</mark>    <mark>Dataverse</mark>    <mark>Power Automate</mark>
+          <mark>Power Apps</mark>     <mark>SQL</mark>    <mark>Dialogflow</mark>     
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
